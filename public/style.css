@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+
+.card {
+    padding: 10px 10px;
+    margin: 10PX;
+    border-radius: 10px;
+    border: solid 1PX black;
+    display: flex;
+    flex-direction: column;
+}
